@@ -1,0 +1,2 @@
+# nspotapplicationmobile
+nspotapplicationmobile
